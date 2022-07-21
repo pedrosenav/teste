@@ -6,7 +6,16 @@
 }
 
 body{
-    background-color: beige;
+    background-color: #abb2fd;
+    color: #37006b;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 20px;
 }
 
 main{
@@ -15,4 +24,7 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+img.lado{
+    float: right;
 }
