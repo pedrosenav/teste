@@ -28,3 +28,7 @@ main{
 img.lado{
     float: right;
 }
+
+main.video{
+    width: 560px;
+}
